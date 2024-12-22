@@ -1,8 +1,8 @@
 {
-    "token": "",
+    "token": "MTMyMDE3ODg3NzExNjU3OTg3Mg.GAFh3v.oWndad7UP-cNhxgNYL5hUeiH3PFs_ged1PAycY",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://sachinkarkib22:<db_password>@cluster0.vuvsk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
     "excessCommands": {
         "utility": true,
